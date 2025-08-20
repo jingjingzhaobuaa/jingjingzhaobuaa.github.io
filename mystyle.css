@@ -24,3 +24,7 @@ body { padding : 0; font-family : Arial; font-size : 15px; background-color : #d
 .paper-title{font-size: 17px; color:darkblue}
 .paper{margin-bottom: 15px;}
 .highlight{color: red; font-weight:bold}
+
+.block-border h2 {
+    text-align: center;
+}
